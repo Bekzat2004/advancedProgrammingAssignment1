@@ -1,0 +1,38 @@
+Your message is: yukira
+. Received time: 2024-04-04T15:17:17+05:00
+Your message is: loh
+. Received time: 2024-04-04T15:17:29+05:00
+Your message is: ramasosi
+. Received time: 2024-04-04T15:17:34+05:00
+Your message is: netbekaloh
+. Received time: 2024-04-04T15:18:09+05:00
+Message from Unknown: hello
+. Received time: 2024-04-04T15:32:39+05:00
+Message from Unknown: hello
+. Received time: 2024-04-04T15:42:45+05:00
+Message from Unknown: hello
+. Received time: 2024-04-04T15:43:31+05:00
+Message from beka: hello
+. Received time: 2024-04-04T15:45:56+05:00
+Message from Beka: test message
+. Received time: 2024-04-04T15:47:54+05:00
+Message from Beka: asdfasdf
+. Received time: 2024-04-04T15:47:59+05:00
+Message from rama: sosi davai
+. Received time: 2024-04-04T15:48:17+05:00
+Message from GET /Account/v.1.0/PrivacySettings?clientId=135333107684344109 HTTP/1.1: Host: localhost:3000
+. Received time: 2024-04-04T15:57:28+05:00
+Message from GET /Account/v.1.0/PrivacySettings?clientId=135333107684344109 HTTP/1.1: Connection: keep-alive
+. Received time: 2024-04-04T15:57:28+05:00
+Message from GET /Account/v.1.0/PrivacySettings?clientId=135333107684344109 HTTP/1.1: Accept: application/json, text/plain, */*
+. Received time: 2024-04-04T15:57:28+05:00
+Message from GET /Account/v.1.0/PrivacySettings?clientId=135333107684344109 HTTP/1.1: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.75 Safari/537.36 NVIDIACEFClient/rel_03_26/94a56bf
+. Received time: 2024-04-04T15:57:28+05:00
+Message from GET /Account/v.1.0/PrivacySettings?clientId=135333107684344109 HTTP/1.1: Accept-Encoding: gzip, deflate, br
+. Received time: 2024-04-04T15:57:28+05:00
+Message from GET /Account/v.1.0/PrivacySettings?clientId=135333107684344109 HTTP/1.1: Accept-Language: en-US,en;q=0.9
+. Received time: 2024-04-04T15:57:28+05:00
+Message from GET /Account/v.1.0/PrivacySettings?clientId=135333107684344109 HTTP/1.1: 
+. Received time: 2024-04-04T15:57:28+05:00
+Message from hekxo: iya sosu
+. Received time: 2024-04-04T16:06:45+05:00
